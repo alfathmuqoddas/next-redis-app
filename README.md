@@ -11,9 +11,9 @@ Nextjs app that connect to vercel/kv (redis) and vercel/postgres
 
 ## Tech Stack
 
-1. [Nextjs]("https://nextjs.org")
-2. [vercel/postgres]("https://vercel.com/docs/storage/vercel-postgres)
-3. [vercel/kv]("https://vercel.com/docs/storage/vercel-kv")
+1. [Nextjs](https://nextjs.org)
+2. [vercel/postgres](https://vercel.com/docs/storage/vercel-postgres)
+3. [vercel/kv](https://vercel.com/docs/storage/vercel-kv)
 
 ## How to
 
